@@ -1,0 +1,15 @@
+{
+  "name": "xke-async-js",
+  "version": "1.0.0",
+  "description": "XKE Async JS showoff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "0.4.3",
+    "babel": "5.8.21"
+  }
+}
