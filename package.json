@@ -2,6 +2,8 @@
   "name": "xke-async-js",
   "version": "1.0.0",
   "description": "XKE Async JS showoff",
+  "repository": "https://github.com/xebia-france/xke-async-js",
+  "readme": "don't read me",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "request-promise": "0.4.3",
-    "babel": "5.8.21"
+    "babel": "5.8.21",
+    "bluebird": "2.9.34",
+    "lodash": "3.10.1",
+    "request-promise": "0.4.3"
   }
 }
